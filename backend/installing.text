@@ -1,0 +1,11 @@
+mongodb://localhost:27017
+npm i init
+npm i -d nodemon
+npm i mongoose
+npm i express
+npm install -g nodemon //installing it globally
+   Get-ExecutionPolicy
+    Set-ExecutionPolicy Unrestricted
+   npm install --save express-validator
+   npm i bcryptjs
+   npm i jsonwebtoken
