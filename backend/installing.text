@@ -9,3 +9,4 @@ npm install -g nodemon //installing it globally
    npm install --save express-validator
    npm i bcryptjs
    npm i jsonwebtoken
+   npm install cors
