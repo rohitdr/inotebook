@@ -8,6 +8,7 @@ const Notes = () => {
   useEffect(()=>{
 get_all_Notes()
   },[])
+  console.log(note)
   return (
     <>
     <Addnote></Addnote>
